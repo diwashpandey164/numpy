@@ -17,7 +17,7 @@ BitGenerators = {'MT19937': MT19937,
 def __bit_generator_ctor(bit_generator_name='MT19937'):
     """
     Pickling helper function that returns a bit generator object
-
+    hello I am Diwash Pandey
     Parameters
     ----------
     bit_generator_name : str
